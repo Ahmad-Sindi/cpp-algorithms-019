@@ -1,5 +1,4 @@
-# Algorithm Challenge
-#19 – Circle Area Through Diameter
+# Algorithm Challenge #19 – Circle Area Through Diameter
 
 ## 🧮 Problem Description
 This challenge focuses on calculating the **area of a circle** when the **diameter** is given.  
