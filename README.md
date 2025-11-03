@@ -41,8 +41,8 @@ The area of the circle is: 78.5398
 This challenge demonstrates the relationship between radius and diameter in calculating a circle’s area — a great example of applying math logic in programming.
 
 ---
-🔗 Connect with me on LinkedIn: 
-www.linkedin.com/in/ahmad-sindi-61550b325
+
+🔗 Connect with me on LinkedIn: www.linkedin.com/in/ahmad-sindi-61550b325
 ---
 
 ## 🏷️ Tags
